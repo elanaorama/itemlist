@@ -21,13 +21,13 @@ tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UCC4YG-EBlOpTtNJIfD6fE7A
+twitch: elanaorama
 tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
   tumblr:
   pinterest:
