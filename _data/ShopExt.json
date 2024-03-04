@@ -2097,8 +2097,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 250,
+      "removePrice": 250,
       "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
@@ -2138,7 +2138,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 20000
+      "price": 12000
     }
   ]
 }
