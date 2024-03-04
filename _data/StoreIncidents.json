@@ -11,6 +11,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "foggyrain",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
@@ -51,12 +56,12 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 1000,
+		"abr": "farmanimals",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rarethrumbos",
+		"abr": "wildman",
 		"price": 1000,
 		"karmatype": "Good"
 	},
@@ -88,11 +93,6 @@
 	{
 		"abr": "militaryaid",
 		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -131,28 +131,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "reviveme",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 5336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passionshuffle",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -161,19 +141,14 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rescueme",
-		"price": 200,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 1167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 1000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 7000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "backpack",
@@ -182,6 +157,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -211,5 +191,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 42
+	"total": 38
 }
