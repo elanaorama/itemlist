@@ -7509,7 +7509,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7529,7 +7529,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7549,7 +7549,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7569,7 +7569,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7589,7 +7589,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7609,7 +7609,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7629,7 +7629,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7649,7 +7649,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7669,7 +7669,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7689,7 +7689,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7709,7 +7709,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -7729,7 +7729,7 @@
     "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -13139,7 +13139,7 @@
     "Mod": "[T] MoreFloors 1.4",
     "KarmaType": null
   },
-  "DruggedRib": {
+  "AA_ShockGoat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13156,10 +13156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "MedicalRib": {
+  "AA_ShadowCharger": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13176,10 +13176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SimpleRib": {
+  "AA_SandSquid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13196,10 +13196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SilentJaw": {
+  "AA_SandProwler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13216,7 +13216,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
   "BionicJaw": {
@@ -13239,7 +13239,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
     "KarmaType": null
   },
-  "BionicToe": {
+  "AA_SandLion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13256,10 +13256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "BionicFinger": {
+  "AA_RoyalAve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13276,10 +13276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "BionicFoot": {
+  "AA_RoughPlatedMonitor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13296,10 +13296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "BionicHand": {
+  "AA_RipperHound": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13316,10 +13316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SteelArm": {
+  "AA_RedSpore": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13336,10 +13336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "HookHand": {
+  "AA_RedGoo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13356,10 +13356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPIA_ProtectiveExoskeleton": {
+  "AA_Razorjack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13376,10 +13376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_ElectricPot": {
+  "AA_RayHound": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13396,10 +13396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Grill": {
+  "AA_Ravager": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13416,10 +13416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_DeepFrier": {
+  "AA_RaptorShrimp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13436,10 +13436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CanningMachine": {
+  "AA_Radyak": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13456,10 +13456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CondimentPrepTable": {
+  "AA_Plasmorph": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13476,10 +13476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CheesePress": {
+  "AA_PhoenixOwlcat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13496,10 +13496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_SimpleBake": {
+  "AA_PedigreedRaptor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13516,10 +13516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_FineBake": {
+  "AA_PebbleMit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13536,10 +13536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_LavishBake": {
+  "AA_OvergrownColossus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13556,10 +13556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_GourmetBake": {
+  "AA_OcularNightling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13576,10 +13576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CannedMeat": {
+  "AA_OcularJelly": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13596,10 +13596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CannedProduce": {
+  "AA_NightRam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13616,10 +13616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CannedFruit": {
+  "AA_Nightling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13636,10 +13636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CannedAP": {
+  "AA_NightAve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13656,10 +13656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CannedFish": {
+  "AA_NightMule": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13676,10 +13676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Cheese": {
+  "AA_Needleroll": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13696,10 +13696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_AgaveNectar": {
+  "AA_Needlepost": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13716,10 +13716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RawSugar": {
+  "AA_MycoidColossus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13736,10 +13736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RawSpices": {
+  "AA_Murkling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13756,10 +13756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Salt": {
+  "AA_Mime": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13776,10 +13776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Mayo": {
+  "AA_Metallovore": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13796,10 +13796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_InsectJellyPreserves": {
+  "AA_MegaLouse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13816,10 +13816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_SmokeleafButter": {
+  "AA_MeadowAve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13836,10 +13836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_ChocolateSyrup": {
+  "AA_MatureFleshbeast": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13856,30 +13856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_DigestibleResurrectorNanites": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_DeepFriedBigMeat": {
+  "AA_Mantrap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13896,10 +13876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_DeepFriedVegetables": {
+  "AA_MammothWorm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13916,10 +13896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_DeepFriedFish": {
+  "AA_LuciferBug": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13936,10 +13916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_SimpleDessert": {
+  "AA_Lockjaw": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13956,10 +13936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_FineDessert": {
+  "AA_Junglelisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13976,10 +13956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_LavishDessert": {
+  "AA_IronhuskBeetle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13996,10 +13976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_GourmetDessert": {
+  "AA_InfectedAerofleet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14016,10 +13996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_MealGourmet": {
+  "AA_Helixien": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14036,10 +14016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_SimpleGrill": {
+  "AA_Groundrunner": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14056,10 +14036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RuinedSimpleGrill": {
+  "AA_GreyCoatedMouflon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14076,10 +14056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_FineGrill": {
+  "AA_GreenGoo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14096,10 +14076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RuinedFineGrill": {
+  "AA_GreatDevourer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14116,10 +14096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_LavishGrill": {
+  "AA_Gigantelope": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14136,10 +14116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RuinedLavishGrill": {
+  "AA_GiantCrownedSilkie": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14156,10 +14136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_GourmetGrill": {
+  "AA_Genix": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14176,10 +14156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RuinedGourmetGrill": {
+  "AA_GallatrossMoribund": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14196,10 +14176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Flour": {
+  "AA_Gallatross": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14216,10 +14196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_UncookedSoupSimple": {
+  "AA_FungalHusk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14236,10 +14216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CookedSoupSimple": {
+  "AA_Frostmite": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14256,10 +14236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_UncookedSoupFine": {
+  "AA_FrostLynx": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14276,10 +14256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CookedSoupFine": {
+  "AA_Frostling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14296,10 +14276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_UncookedSoupLavish": {
+  "AA_FrostboundBehemoth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14316,10 +14296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CookedSoupLavish": {
+  "AA_FrostAve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14336,10 +14316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_UncookedSoupGourmet": {
+  "AA_FlamingoPhoenix": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14356,10 +14336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_CookedSoupGourmet": {
+  "AA_FissionMouseThird": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14376,7 +14356,27 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_FissionMouseSecond": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
   "VME_FleshcraftedArm": {
@@ -15819,7 +15819,7 @@
     "Mod": "Vanilla Ideology Expanded - Memes and Structures",
     "KarmaType": null
   },
-  "VIE_RelicInertAmulet": {
+  "AA_FissionMouse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15836,10 +15836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertAntlers": {
+  "AA_FireWasp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15856,10 +15856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertApple": {
+  "AA_FeraliskClutchMother": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15876,10 +15876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertAxeHead": {
+  "AA_Feralisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15896,10 +15896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBone": {
+  "AA_Eyeling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15916,10 +15916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBook": {
+  "AA_Erin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15936,10 +15936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBottle": {
+  "AA_EngorgedTentacularAberration": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15956,10 +15956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBowl": {
+  "AA_EmpressButterfly": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15976,10 +15976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBracelet": {
+  "AA_EmpressButterflyLarva": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -15996,10 +15996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBrokenMask": {
+  "AA_DuskRat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16016,10 +16016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBrokenSpear": {
+  "AA_DuskProwler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16036,10 +16036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertBucket": {
+  "AA_DunealiskClutchMother": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16056,10 +16056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertCeremonialMask": {
+  "AA_Dunealisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16076,10 +16076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertChain": {
+  "AA_Drainer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16096,10 +16096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertEngine": {
+  "AA_DrainerLarva": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16116,10 +16116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertEngram": {
+  "AA_DevilSheep": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16136,10 +16136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertFossil": {
+  "AA_DesertAve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16156,10 +16156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertGauntlet": {
+  "AA_DecayDrake": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16176,10 +16176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertHorn": {
+  "AA_DarkVandal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16196,10 +16196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertIdol": {
+  "AA_Darkbeast": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16216,10 +16216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertImplant": {
+  "AA_CrystalMit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16236,10 +16236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertInsectSkull": {
+  "AA_CrystallineCaracal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16256,10 +16256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertMechanoidHead": {
+  "AA_CrescendoAnole": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16276,10 +16276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertMedallion": {
+  "AA_CrepuscularBeetle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16296,10 +16296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertMug": {
+  "AA_Cinderlisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16316,10 +16316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertPlate": {
+  "AA_ChemfuelMyrmidon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16336,10 +16336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertPolishedRock": {
+  "AA_ChameleonYak": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16356,10 +16356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertPyramid": {
+  "AA_Cactipine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16376,10 +16376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertRing": {
+  "AA_BumbledroneQueen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16396,10 +16396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertScroll": {
+  "AA_BumbledroneHierophant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16416,10 +16416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertShroud": {
+  "AA_Bumbledrone": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16436,10 +16436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertSkull": {
+  "AA_SummitCrab": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16456,10 +16456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertStack": {
+  "AA_BoulderMit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16476,10 +16476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertStatuette": {
+  "AA_Bobeene": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16496,10 +16496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertSword": {
+  "AA_BloodShrimp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16516,10 +16516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VIE_RelicInertTools": {
+  "AA_BlizzariskClutchMother": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16536,10 +16536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "ExoskeletonSuit": {
+  "AA_Blizzarisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16556,10 +16556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicJaw": {
+  "AA_BlackSpider": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16576,10 +16576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicToe": {
+  "AA_BlackSpelopede": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16596,10 +16596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Lighting_MURWallLight": {
+  "AA_BlackScarab": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16616,10 +16616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Wall Light",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Lighting_MURWallSunLight": {
+  "AA_Behemoth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16636,7 +16636,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Wall Light",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
   "BionicBladder": {
@@ -17419,7 +17419,7 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "AdvancedBionicFinger": {
+  "AA_BedBug": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17436,10 +17436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicFoot": {
+  "AA_Barbslinger": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17456,10 +17456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicHand": {
+  "AA_AuroraSylph": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17476,10 +17476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicEar": {
+  "AA_Atispec": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17496,10 +17496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicSpine": {
+  "AA_LarvalAtispec": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17516,10 +17516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicLeg": {
+  "AA_ArcticLion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17536,10 +17536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicArm": {
+  "AA_AnimusVox": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17556,10 +17556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedBionicEye": {
+  "AA_Animalisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17576,10 +17576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdvancedPowerArm": {
+  "AA_AnimaColossus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17596,10 +17596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "PowerArm": {
+  "AA_AngelMoth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17616,7 +17616,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
   "MartialArtsTarget": {
@@ -17679,7 +17679,7 @@
     "Mod": "Misc. Training",
     "KarmaType": null
   },
-  "VG_DandelionCuttings": {
+  "AA_AngelMothLarva": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17696,10 +17696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Bandagekit": {
+  "AA_Agaripod": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17716,10 +17716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Glitterworld_Neutroamine": {
+  "AA_Agaripawn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17736,10 +17736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AlyssumTrimings": {
+  "AA_ColossalAerofleet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17756,10 +17756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "NeutroPetals": {
+  "AA_Aerofleet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17776,10 +17776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "GW_Inoculation": {
+  "AA_AcanthamoebaGiganteaHuge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17796,10 +17796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Cigarillos": {
+  "AA_AcanthamoebaGiganteaLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17816,10 +17816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "RawTobacco": {
+  "AA_AcanthamoebaGiganteaSmall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17836,10 +17836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "MechaGone": {
+  "AA_NightWool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17856,10 +17856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VG_Ibuprofen": {
+  "AA_GreyCoatedMouflonWool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17876,10 +17876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VG_FluEz": {
+  "AA_GiantCrownedSilkieSilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17896,10 +17896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Deworm": {
+  "AA_MothSilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17916,10 +17916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VG_antibiotics": {
+  "AA_CinderSilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17936,10 +17936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VG_DandelionTea": {
+  "AA_ChameleonYakWoolDesert": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17956,10 +17956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Medicine",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AdrenalineRib": {
+  "AA_ChameleonYakWoolJungle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17976,10 +17976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "PainkillerRib": {
+  "AA_ChameleonYakWoolWinter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17996,10 +17996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "HeaterRib": {
+  "AA_ChameleonYakWoolTemperate": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18016,10 +18016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "CoolerRib": {
+  "Leather_Night": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18036,10 +18036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "CoagulatorRib": {
+  "Leather_Gallatross": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18056,10 +18056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "RespirationRib": {
+  "Leather_BlackChitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18076,10 +18076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "WakeUpRib": {
+  "Leather_Cactus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18096,10 +18096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TacticalCorneaImplant": {
+  "Leather_RaptorPlates": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18116,10 +18116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPIA_AuxiliaryAI_Worker": {
+  "Leather_IronChitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18136,10 +18136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPIA_AuxiliaryAI_Combat": {
+  "Leather_Chitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18156,10 +18156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPIA_TacticalBionicEye": {
+  "AA_SandLion_Leather": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18176,10 +18176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPOE_OrganicOptimizingNanobots": {
+  "AA_ArcticLion_Leather": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18196,10 +18196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPOE_InstinctOptimizingNanobots": {
+  "AA_Leather_Aerofleet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18216,10 +18216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SyntheticSkin": {
+  "AA_Leather_Behemoth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18236,10 +18236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "NeuromuscularFramework": {
+  "AA_BlackTruffles": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18256,10 +18256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "NeurocureFramework": {
+  "AA_NightMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18276,10 +18276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPIA_SyntheticBone": {
+  "AA_HugeAnimaPearl": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18289,17 +18289,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "GoldenEye": {
+  "AA_RottingMoundItem": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18316,10 +18316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "LightReceptor": {
+  "AA_AgariluxRawFungus": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18336,10 +18336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SimpleSpine": {
+  "AA_HexagelCore": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18349,17 +18349,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SimpleProstheticHand": {
+  "AA_Hexagel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18376,10 +18376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SimpleProstheticFoot": {
+  "AA_BlueGel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18396,10 +18396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SimpleProstheticFinger": {
+  "AA_UraniumCrystals": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18416,10 +18416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SimpleProstheticToe": {
+  "AA_SkySteel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18436,16 +18436,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "HydraulicJaw": {
+  "GU_RedWood": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -18456,30 +18456,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "ArtificialNose": {
+  "AA_GallatrossHorn": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "ReplacementRadius": {
+  "AA_DisgustingMealNutrientPaste": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18496,10 +18496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPIA_ScytherBlade": {
+  "AA_GowMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18516,10 +18516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SurrogateLung": {
+  "AA_BlueMilk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18536,10 +18536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SurrogateStomach": {
+  "AA_CactipineQuill": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18556,10 +18556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SurrogateLiver": {
+  "AA_BlackInsectJelly": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18576,10 +18576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SurrogateKidney": {
+  "AA_CactusMeat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18596,10 +18596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "BrainStimulator": {
+  "AB_RawRedSlime": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18616,10 +18616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SyntheticLung": {
+  "AA_OcularJellyMeat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18636,10 +18636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SyntheticLiver": {
+  "AA_AerofleetMeat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18656,10 +18656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "SyntheticKidney": {
+  "AA_EggGiantCrownedSilkieFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18676,10 +18676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "MuscleStimulator": {
+  "AA_EggGiantCrownedSilkieUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18696,10 +18696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "AIChip": {
+  "AA_EmpressButterflyEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18716,10 +18716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Eye": {
+  "AA_EggPedigreedRaptorFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18736,10 +18736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Nose": {
+  "AA_EggCrescendoAnoleFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18756,10 +18756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Ear": {
+  "AA_EggFlamingoPhoenixFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18776,10 +18776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Jaw": {
+  "AA_FireWaspEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18796,10 +18796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Stomach": {
+  "AA_FireWaspEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18816,10 +18816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Arm": {
+  "AA_DrainerEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18836,10 +18836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "Leg": {
+  "AA_AngelMothEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18856,10 +18856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TableBionics": {
+  "AA_AtispecEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18876,10 +18876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "TableOrgans": {
+  "AA_EggRoughPlatedMonitorFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18896,10 +18896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPOE_DamagedScytherBlade": {
+  "AA_EggRoyalAveFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18916,10 +18916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "EPOE_MAAI_Chip": {
+  "AA_EggNightAveFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18936,7 +18936,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
   "Bed_StoneSlab": {
@@ -19659,7 +19659,7 @@
     "Mod": "Vanilla Furniture Expanded",
     "KarmaType": null
   },
-  "VBE_LuciferiumPowder": {
+  "AA_EggDesertAveFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19676,10 +19676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_WakeUpPowder": {
+  "AA_EggMeadowAveFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19696,10 +19696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_GoJuiceStock": {
+  "AA_EggNightlingFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19716,10 +19716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_Bar": {
+  "AA_CinderliskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19736,10 +19736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_SodaFountain": {
+  "AA_CinderliskEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19756,10 +19756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyDistillery": {
+  "AA_JungleliskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19776,10 +19776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_WhiskeyCask": {
+  "AA_JungleliskEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19796,10 +19796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_TequilaBarrel": {
+  "AA_BlizzariskSuperEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19816,10 +19816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_VodkaDrum": {
+  "AA_BlizzariskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19836,10 +19836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_GinStill": {
+  "AA_BlizzariskEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19856,10 +19856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyAwful": {
+  "AA_DunealiskSuperEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19876,10 +19876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyPoor": {
+  "AA_DunealiskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19896,10 +19896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyNormal": {
+  "AA_DunealiskEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19916,10 +19916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyGood": {
+  "AA_FeraliskSuperEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19936,10 +19936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyExcellent": {
+  "AA_FeraliskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19956,10 +19956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyMasterwork": {
+  "AA_FeraliskEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19976,10 +19976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyLegendary": {
+  "AA_AnimaliskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19996,110 +19996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_Gin": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
-    "KarmaType": null
-  },
-  "VBE_Tequila": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
-    "KarmaType": null
-  },
-  "VBE_Vodka": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
-    "KarmaType": null
-  },
-  "VBE_Whiskey": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
-    "KarmaType": null
-  },
-  "VBE_DoubleWhiskey": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
-    "KarmaType": null
-  },
-  "VBE_HotCoffee": {
+  "AA_BedBugEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20116,10 +20016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_IceCoffee": {
+  "AA_BedBugEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20136,10 +20036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_EnergyDrink": {
+  "AA_MegalouseEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20156,10 +20056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_Juice": {
+  "AA_MegalouseEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20176,30 +20076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_Soda": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
-    "KarmaType": null
-  },
-  "VBE_Tea": {
+  "AA_GreatDevourerEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20216,10 +20096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_SimpleCocktail": {
+  "AA_GreatDevourerEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20236,10 +20116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_FineCocktail": {
+  "AA_CrepuscularBeetleEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20256,10 +20136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_LavishCocktail": {
+  "AA_CrepuscularBeetleEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20276,10 +20156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_GourmetCocktail": {
+  "AA_MammothWormEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20296,10 +20176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_SodaSyrup": {
+  "AA_MammothWormEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20316,10 +20196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyMush": {
+  "AA_IronhuskEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20336,10 +20216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_AmbrandyMust": {
+  "AA_IronhuskEggUnfertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20356,10 +20236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_WhiskeyMash": {
+  "AA_AgaripawnSpores": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20376,10 +20256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_TequilaMust": {
+  "AA_WildpawnSpores": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20396,10 +20276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_VodkaMash": {
+  "AA_MycoidColossusSpores": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20416,10 +20296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_GinMush": {
+  "AA_AgaripodSpores": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20436,10 +20316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_RawCoffee": {
+  "AA_WildpodSpores": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20456,10 +20336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_RawTea": {
+  "AA_BumbledroneQueenEggFertilized": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20476,10 +20356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_RawTobacco": {
+  "AA_TheHeuristicEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20496,10 +20376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_Cigarettes": {
+  "AA_TheMeretriciousEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20516,10 +20396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VBE_Cigars": {
+  "AA_TheSpasmodicEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20536,10 +20416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Brewing Expanded",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Oshizushi": {
+  "AA_TheNumbingEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20556,10 +20436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Gunkanmaki": {
+  "AA_TheQuiescentEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20576,10 +20456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Futomaki": {
+  "AA_TheRecalcitrantEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20596,10 +20476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Temaki": {
+  "AA_TheOmniscientEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20616,10 +20496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Nigiri": {
+  "AA_MutantEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20636,10 +20516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Uramaki": {
+  "AA_MutantArm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20656,10 +20536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Norimaki": {
+  "AA_MutantLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20676,10 +20556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_Chirashizushi": {
+  "AA_HexaGelBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20696,10 +20576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RawWasabi": {
+  "AA_BlueGelBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20716,10 +20596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_RawSoybean": {
+  "AA_DarkGlowPod": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20736,10 +20616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Alpha Animals",
     "KarmaType": null
   },
-  "VCE_HumanSurimi": {
+  "ShelfConnected": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20756,10 +20636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Connected Shelves",
     "KarmaType": null
   },
-  "VCE_DeepFriedSushi": {
+  "VCE_RawTomatoes": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20776,10 +20656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCE_WasabiPaste": {
+  "VCE_RawBeets": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20796,10 +20676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCE_SoySauce": {
+  "VCE_RawCabbage": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20816,10 +20696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCE_SoyFermenter": {
+  "VCE_RawEggplant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20836,10 +20716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCE_SushiPrepTable": {
+  "VCE_RawPeas": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20856,7 +20736,127 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded - Sushi",
+    "Mod": "Vanilla Plants Expanded",
+    "KarmaType": null
+  },
+  "VCE_RawPepper": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Plants Expanded",
+    "KarmaType": null
+  },
+  "VCE_RawPumpkin": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Plants Expanded",
+    "KarmaType": null
+  },
+  "VCE_RawOnion": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Plants Expanded",
+    "KarmaType": null
+  },
+  "VCE_RawOrange": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Plants Expanded",
+    "KarmaType": null
+  },
+  "VCE_RawBanana": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Plants Expanded",
+    "KarmaType": null
+  },
+  "VCE_Bearberry": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
   "Bed_OperatingTable": {
@@ -20959,7 +20959,7 @@
     "Mod": "Cash Register",
     "KarmaType": null
   },
-  "DocStu_Sofa": {
+  "VCE_RawPricklyPear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20976,10 +20976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Literally just a sofa",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "owl_doublerefrigerator": {
+  "VCE_RawPear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20996,10 +20996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Utilities: Fridge",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "owl_refrigerator": {
+  "VCE_RawPrunes": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21016,10 +21016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Utilities: Fridge",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCEF_ShortfinMakoSharkItem": {
+  "VCE_RawPlum": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21036,10 +21036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCEF_ArapaimaItem": {
+  "VCE_RawCherry": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21056,10 +21056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCEF_FlyingFishItem": {
+  "VCE_RawPeach": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21076,10 +21076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCEF_FreshwaterStingrayItem": {
+  "VCE_RawApple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21096,10 +21096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "VCEF_ButterFishItem": {
+  "sd_bridges_pontoonbridgepart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21116,10 +21116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "[sd] Bridges (Continued)",
     "KarmaType": null
   },
-  "VCEF_CrayfishItem": {
+  "sd_bridges_foundationmaterial": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21136,10 +21136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "[sd] Bridges (Continued)",
     "KarmaType": null
   },
-  "VME_TackleBox": {
+  "ACPUnicorn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21156,10 +21156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "A Cornucopia of Unicorns",
     "KarmaType": null
   },
-  "VME_LargeFishingTrap": {
+  "VDE_AwakenedDryad_Gaubricmaker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21176,10 +21176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "VME_MediumFishingTrap": {
+  "VDE_AwakenedDryad_Spitter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21196,10 +21196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "VHE_TableBarber": {
+  "VDE_AwakenedDryad_Nectarmaker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21216,10 +21216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Hair Expanded",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "EPOE_AdvancedDrillArm": {
+  "VDE_AwakenedDryad_Stonedigger": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21236,10 +21236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "EPOE_AdvancedFieldHand": {
+  "VDE_AwakenedDryad_Berrymaker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21256,10 +21256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "EPOE_AdvancedHandTalon": {
+  "VDE_AwakenedDryad_Medicinemaker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21276,10 +21276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "EPOE_AdvancedElbowBlade": {
+  "VDE_AwakenedDryad_Woodmaker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21296,10 +21296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "EPOE_AdvancedKneeSpike": {
+  "VDE_AwakenedDryad_Barkskin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21316,367 +21316,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPOE_ScytherHandTalon": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPOE_ScytherElbowBlade": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPOE_ScytherKneeSpike": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPIA_CircadianRefresher": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPOE_DetoxifierEnhancer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPOE_DetoxifierSyntheticLiver": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "EPOE_ImmunoenhancerSyntheticKidney": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
-    "KarmaType": null
-  },
-  "VME_SmallFishingTrap": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-    "KarmaType": null
-  },
-  "VCEF_RawTuna": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawTrout": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawSwordfish": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawSprat": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawSalmon": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawPufferfish": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawPiranha": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawPerch": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawMinnow": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
-    "KarmaType": null
-  },
-  "VCEF_RawMackerel": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
   "VFE_DrugCabinet": {
@@ -21879,7 +21519,7 @@
     "Mod": "Vanilla Furniture Expanded - Production",
     "KarmaType": null
   },
-  "VCEF_RawLobster": {
+  "VDE_AwakenedDryad_Clawer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21896,10 +21536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "VCEF_RawKoi": {
+  "VDE_AwakenedDryad_Carrier": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21916,10 +21556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "VCEF_RawHerring": {
+  "VDE_Gaubric": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21936,10 +21576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "VCEF_RawHalibut": {
+  "VDE_DryadNest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21956,10 +21596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Ideology Expanded - Dryads",
     "KarmaType": null
   },
-  "VCEF_RawHaddock": {
+  "VFES_Turret_ChargeTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21976,10 +21616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawGuppy": {
+  "VFES_ShieldGenerator_Archotech": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21996,10 +21636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawGoldfish": {
+  "VFES_ShieldGenerator_Small": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22016,10 +21656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawEel": {
+  "VFES_BearTrap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22036,10 +21676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "Table_DarkLightEndTable": {
+  "VFES_Turret_SentryGun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22056,10 +21696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "Light_OutdoorDarkLamp": {
+  "VFES_Turret_Flame": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22076,10 +21716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawCod": {
+  "VFES_Turret_Searchlight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22096,10 +21736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawClownfish": {
+  "VFES_Turret_MilitaryTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22116,10 +21756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawCatfish": {
+  "VFES_AmmoCrate": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22136,10 +21776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawBass": {
+  "VFES_Turret_Decoy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22156,10 +21796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "VCEF_RawAnglerfish": {
+  "VFES_Turret_Artillery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22176,10 +21816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "Techprint_EPOE_AdvancedSpecializedLimbs": {
+  "VFES_Turret_FloorTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22196,10 +21836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "Vanilla Furniture Expanded - Security",
     "KarmaType": null
   },
-  "Techprint_EPOE_AdvancedCompactWeaponry": {
+  "BookcaseSmall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22216,10 +21856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Techprint_EPOE_SyntheticOrgansIntegration": {
+  "Bookcase": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22236,10 +21876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "EPOE-Forked: Royalty DLC expansion",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "VCEF_RawAngelfish": {
+  "FloodLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22256,10 +21896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "VCEF_RawAnchovy": {
+  "WallLamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22276,7 +21916,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
   "BlocksPinkMarble": {
@@ -22339,27 +21979,7 @@
     "Mod": "CCP's Stone Tweaks",
     "KarmaType": null
   },
-  "AutocleanerItem": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Autocleaner",
-    "KarmaType": null
-  },
-  "HC_SlotMachineRed": {
+  "Couch": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22376,10 +21996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hospitality: Casino",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "HC_SlotMachineGreen": {
+  "Novel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22396,10 +22016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hospitality: Casino",
+    "Mod": "RimWorld",
     "KarmaType": null
   },
-  "HC_SlotMachineBlue": {
+  "Schematic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22416,7 +22036,1667 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Hospitality: Casino",
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "TextBook": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "AA_Skiphound": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Skyeel": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Slurrypede": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_SpinedGow": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Swarmling": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_TarGuzzler": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_TeratogenicOriginator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Terramorph": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_TetraSlug": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Thermadon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Thunderbeast": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Thunderox": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_UnblinkingEye": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Wildpawn": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_Wildpod": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "AA_WindBeast": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "VME_SerketistSlab_Medium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "KarmaType": null
+  },
+  "VME_SerketistSlab_Broad": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Ideology Expanded - Memes and Structures",
+    "KarmaType": null
+  },
+  "RimFridge_SingleRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimFridge: Now with Shelves!",
+    "KarmaType": null
+  },
+  "RimFridge_Refrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimFridge: Now with Shelves!",
+    "KarmaType": null
+  },
+  "RimFridge_QuadRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimFridge: Now with Shelves!",
+    "KarmaType": null
+  },
+  "RimFridge_SingleWallRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimFridge: Now with Shelves!",
+    "KarmaType": null
+  },
+  "RimFridge_WallRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimFridge: Now with Shelves!",
+    "KarmaType": null
+  },
+  "LWM_BigShelf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_VeryBigShelf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_MealRack": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Food_Basket": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Meat_Hook": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Hayloft": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_FabricHamper": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Pallet": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Pallet_Covered": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_DeepStorage_Skip": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Medicine_Cabinet": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Clothing_Rack": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_Safe": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_WeaponsCabinet": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "LWM_WeaponsLocker": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "LWM's Deep Storage",
+    "KarmaType": null
+  },
+  "Leather_HKCat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "HousekeeperAssistanceCat",
+    "KarmaType": null
+  },
+  "Wool_HKCat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "HousekeeperAssistanceCat",
+    "KarmaType": null
+  },
+  "HousekeeperCat": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "HousekeeperAssistanceCat",
+    "KarmaType": null
+  },
+  "VendingMachine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality: Vending machines",
+    "KarmaType": null
+  },
+  "MedievalVendingMachine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality: Vending machines",
+    "KarmaType": null
+  },
+  "RimFridgeVendingMachine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "Meat_AA_ArcticLion": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Atispec": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Behemoth": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_BoulderMit": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_DevilSheep": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Frostling": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Gallatross": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Gigantelope": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Groundrunner": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Helixien": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_MeadowAve": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_NightMule": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Nightling": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_OvergrownColossus": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_RaptorShrimp": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Razorjack": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_RipperHound": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_RoughPlatedMonitor": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_SandSquid": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "Meat_AA_Skyeel": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Alpha Animals",
+    "KarmaType": null
+  },
+  "BedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "DoubleBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "RoyalBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "HospitalBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "BedrollGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "BedrollDoubleGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "SlabBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "SlabDoubleBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "DeathrestCasketGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "CribGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_StoneSlabGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_SimpleGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_ErgonomicGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_DoubleErgonomicGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_KingsizeGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_OperatingTableGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "Bed_CryptoBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
+    "KarmaType": null
+  },
+  "VME_AncientBedGuest": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Hospitality",
     "KarmaType": null
   }
 }

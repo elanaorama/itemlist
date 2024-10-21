@@ -1,37 +1,79 @@
 [
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
+    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "JF",
-    "name": "[JF] Royal Carpets",
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Garden Medicine",
+    "author": "Oganesson",
+    "name": "[Og] Simple Gate",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Josh Mate",
-    "name": "Better Traders",
+    "author": "Mlie",
+    "name": "[sd] Bridges (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Training",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "author": "cucumpear",
+    "name": "A Cornucopia of Unicorns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Cozy Fires",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cucumpear",
+    "name": "CCP's Stone Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sundae",
+    "name": "Connected Shelves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Khitrir",
+    "name": "[SBV] Recreational Drum Use ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
+    "name": "Vanilla Ideology Expanded - Dryads",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Divinorium",
+    "name": "Tainted Renaming",
     "steamId": null,
     "version": null
   },
@@ -42,20 +84,86 @@
     "version": null
   },
   {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tiagocc0",
+    "name": "Colorblind Minerals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir and Rain",
+    "name": "[T] MoreFloors 1.5",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.5]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Cleaning Priority (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "VE Medical drips - Dubs Bad Hygiene patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Peppsen",
     "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RelaxedOtter",
-    "name": "Wear What You Want",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "More Sculpture",
     "steamId": null,
     "version": null
   },
@@ -72,188 +180,38 @@
     "version": null
   },
   {
-    "author": "fyarn",
-    "name": "Easy Speedup",
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "tiagocc0",
-    "name": "Colorblind Minerals",
+    "author": "Krit",
+    "name": "Orama Floor Art",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Kosaro",
-    "name": "Fahrenheit and Celsius",
+    "author": "Latki(vee)",
+    "name": "[Vee]Apparel Retexture",
     "steamId": null,
     "version": null
   },
   {
-    "author": "erdelf (original) & Kiame (support)",
-    "name": "[KV] Don't stop the music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tials",
-    "name": "Floordrawings",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Labels on Floor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "EPOE-Forked: Royalty DLC expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Scorpio",
-    "name": "VE Medical drips - Dubs Bad Hygiene patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CopperMonster",
-    "name": "[CM] Biotech DLC Texture Upscale",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
-    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Vanilla Beards Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Divinorium",
-    "name": "Tainted Renaming",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Mods",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Vanilla Hair Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "cucumpear",
-    "name": "CCP's Stone Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BleuSquid",
-    "name": "[Patch] VomitRainBeGone",
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
     "steamId": null,
     "version": null
   }
