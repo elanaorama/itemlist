@@ -3527,7 +3527,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 4269
     },
     {
       "data": {
@@ -3552,7 +3552,7 @@
       "defName": "ARR_MiqoteKeeper",
       "enabled": true,
       "name": "Miqo'te",
-      "price": 2917
+      "price": 4269
     },
     {
       "data": {
@@ -3577,7 +3577,7 @@
       "defName": "ARR_MiqoteSeeker",
       "enabled": true,
       "name": "Miqo'te",
-      "price": 2917
+      "price": 4269
     },
     {
       "data": {
@@ -3600,7 +3600,7 @@
       "defName": "ARR_RoegadynHellsguard",
       "enabled": true,
       "name": "roegadyn",
-      "price": 2917
+      "price": 4269
     },
     {
       "data": {
@@ -3625,7 +3625,7 @@
       "defName": "ARR_RoegadynSeaWolf",
       "enabled": true,
       "name": "roegadyn",
-      "price": 2917
+      "price": 4269
     }
   ]
 }
