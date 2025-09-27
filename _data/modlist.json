@@ -12,12 +12,6 @@
     "version": "12.0.0"
   },
   {
-    "author": "Erin",
-    "name": "Erin's Hairstyles - Redux",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -40,18 +34,6 @@
     "name": "Research Tab Colors",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Research Whatever",
-    "steamId": "2552092060",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": "2186560858",
-    "version": "1.0.0.0"
   },
   {
     "author": "DaLLaN",
@@ -84,14 +66,14 @@
     "version": "1.6.1.0+c6a702899132d9cceb8457e42c3ca8508d780df8"
   },
   {
-    "author": "sindre0830",
-    "name": "Natural Lakes",
+    "author": "Erin",
+    "name": "Erin's Hairstyles - Redux",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Madara Uchiha",
-    "name": "Reminders",
+    "author": "sindre0830",
+    "name": "Natural Lakes",
     "steamId": null,
     "version": null
   },
@@ -124,12 +106,6 @@
     "name": "Tech Advancing",
     "steamId": "735268789",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson, Chowder and Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Aelanna",
@@ -166,12 +142,6 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.6.3.3"
-  },
-  {
-    "author": "sulusdacor",
-    "name": "[sd] Advanced Powergeneration (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oganesson",
@@ -318,12 +288,6 @@
     "version": null
   },
   {
-    "author": "Reel",
-    "name": "Reel's Frieren Hairs",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Props and Decor",
     "steamId": "2102143149",
@@ -348,12 +312,6 @@
     "version": "2.7.7366"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": "2069684319",
@@ -370,12 +328,6 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
-  },
-  {
-    "author": "KittahKhan",
-    "name": "[Kit] Graze up",
-    "steamId": "2302739121",
-    "version": "1.0.0.0"
   },
   {
     "author": "CrashM",
@@ -474,21 +426,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Arquebus and Woffleman",
-    "name": "Thrumbo Plushie",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "sumghai and Dubwise",
-    "name": "Replimat",
-    "steamId": "1715402900",
     "version": "1.0.0.0"
   },
   {
@@ -552,12 +492,6 @@
     "version": null
   },
   {
-    "author": "Honey Badger",
-    "name": "Wall Mounted Turrets (Continued)",
-    "steamId": "2015445164",
-    "version": "1.6.1"
-  },
-  {
     "author": "Spdskatr and CaesarV6",
     "name": "Damage Indicators [1.6]",
     "steamId": "2016331497",
@@ -568,12 +502,6 @@
     "name": "TradeHelper",
     "steamId": "2113372560",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
-    "name": "Vanilla Races Expanded - Hussar",
-    "steamId": "2893586390",
-    "version": "1.0.0.0"
   },
   {
     "author": "dismarzero",
@@ -589,12 +517,6 @@
   },
   {
     "author": "dismarzero",
-    "name": "VGP Three Sisters Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
     "name": "VGP Xtra Trees and Flowers",
     "steamId": null,
     "version": null
@@ -602,12 +524,6 @@
   {
     "author": "dismarzero",
     "name": "VGP Garden Fabrics Simplified",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Resources",
     "steamId": null,
     "version": null
   },
@@ -628,12 +544,6 @@
     "name": "Cleaning Speed",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "Corpse Cleanup",
-    "steamId": "3047191756",
-    "version": "1.0.0.0"
   },
   {
     "author": "Edge Crescent",
