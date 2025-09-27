@@ -1,13 +1,175 @@
 [
   {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded",
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.4.2.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Hairstyles - Redux",
     "steamId": null,
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Research Tab Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DaLLaN",
+    "name": "Hardworking animals 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Natural Paths",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
+  },
+  {
+    "author": "telardo",
+    "name": "Romance On The Rim",
+    "steamId": "2654432921",
+    "version": "1.6.1.0+c6a702899132d9cceb8457e42c3ca8508d780df8"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Natural Lakes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Reminders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Natural Farms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MortalSmurph",
+    "name": "Advanced Standard Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Weapon Racks",
+    "steamId": "2788630748",
+    "version": "1.4.3.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Core",
+    "steamId": "2659227786",
+    "version": "0.5.2"
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "2.8.0+bf1809ad476a6c900d1097cd6dc00ecea37d8f48"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "sulusdacor",
+    "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": null,
     "version": null
   },
@@ -19,33 +181,27 @@
   },
   {
     "author": "Mlie",
-    "name": "[sd] Bridges (Continued)",
-    "steamId": null,
-    "version": null
+    "name": "All Memories Fade",
+    "steamId": "2800155563",
+    "version": "1.6.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "4.1.8.0"
   },
   {
-    "author": "cucumpear",
-    "name": "A Cornucopia of Unicorns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Velcroboy",
-    "name": "Cozy Fires",
-    "steamId": null,
-    "version": null
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Vanilla Bionics Expansion",
+    "steamId": "1419675146",
+    "version": "0.0.0.0"
   },
   {
     "author": "cucumpear",
     "name": "CCP's Stone Tweaks",
-    "steamId": null,
-    "version": null
+    "steamId": "1523682542",
+    "version": "0.0.0.0"
   },
   {
     "author": "sundae",
@@ -54,38 +210,104 @@
     "version": null
   },
   {
-    "author": "Khitrir",
-    "name": "[SBV] Recreational Drum Use ",
+    "author": "TangW and 漆黑之梦",
+    "name": "[TW1.6]幻彩林地 Rainbow forest",
+    "steamId": "3532501549",
+    "version": "0.1.0.0+da74959dceb1f8abd37c7a50f8415c377038f22a"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Tools",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Furniture Expanded - Production",
+    "author": "Rainbeau Flambe and Jamaican Castle",
+    "name": "Fertile Fields 1.6",
+    "steamId": "3225843229",
+    "version": "1.0.9326.21234"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "SimplyMoreFloors (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
-    "name": "Vanilla Ideology Expanded - Dryads",
+    "author": "4loris4",
+    "name": "More Linkables",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Divinorium",
-    "name": "Tainted Renaming",
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
     "steamId": null,
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
+    "author": "dismarzero",
+    "name": "VGP More Veggies",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.3.2.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
   },
   {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bdew",
+    "name": "Long Distance",
+    "steamId": "2028511550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Better Pyromania",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "3382255579",
+    "version": "4.9.95"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
     "steamId": null,
     "version": null
   },
@@ -96,10 +318,16 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Just Put It Over There",
+    "author": "Reel",
+    "name": "Reel's Frieren Hairs",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
   },
   {
     "author": "Haplo",
@@ -108,20 +336,116 @@
     "version": null
   },
   {
-    "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.5",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.5]",
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Cleaning Priority (Continued)",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": "2069684319",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.6.4553.2"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Hybrid Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Miqo'te Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "A Rim Reborn - Roegadyn Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.9303.23067"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi, Sarg and Sokyran",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": "1718190143",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
   },
@@ -132,20 +456,74 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "1.6.1.3+e339a5ca077cefe8005be09579a729a812fe01c7"
+  },
+  {
+    "author": "Divinorium",
+    "name": "Tainted Renaming",
+    "steamId": "2021251001",
+    "version": "1.0.0+a28aaca61d005c2dc5305237523f88e47f53ad60"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arquebus and Woffleman",
+    "name": "Thrumbo Plushie",
     "steamId": null,
     "version": null
   },
   {
-    "author": "erdelf (original) & Kiame (support)",
-    "name": "[KV] Don't stop the music",
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sumghai and Dubwise",
+    "name": "Replimat",
+    "steamId": "1715402900",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krit",
+    "name": "Orama Floor Art",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson",
-    "name": "Vanilla Textures Expanded - Variations",
+    "author": "Reel",
+    "name": "Reel's Expanded Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "chuiu",
+    "name": "Greenworld",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "lydocia",
+    "name": "Adoptive Relationships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Jelheb",
+    "name": "Rustic Meal Retexture",
     "steamId": null,
     "version": null
   },
@@ -162,57 +540,135 @@
     "version": null
   },
   {
-    "author": "Peppsen",
-    "name": "P-Music",
+    "author": "SirVan",
+    "name": "Van's Retexture : Hemogen Vials ",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
+    "author": "SirVan",
+    "name": "Van's Retexture : Misc. Training",
     "steamId": null,
     "version": null
   },
   {
-    "author": "chuiu",
-    "name": "Greenworld",
+    "author": "Honey Badger",
+    "name": "Wall Mounted Turrets (Continued)",
+    "steamId": "2015445164",
+    "version": "1.6.1"
+  },
+  {
+    "author": "Spdskatr and CaesarV6",
+    "name": "Damage Indicators [1.6]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TimmyLiang",
+    "name": "TradeHelper",
+    "steamId": "2113372560",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Medicine",
     "steamId": null,
     "version": null
   },
   {
-    "author": "dhultgren",
-    "name": "Keep Bed Ownership",
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Madara Uchiha",
-    "name": "Undraft After Tucking",
+    "author": "dismarzero",
+    "name": "VGP Three Sisters Plants",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Meltup",
-    "name": "Beautiful Outdoors",
+    "author": "dismarzero",
+    "name": "VGP Xtra Trees and Flowers",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Krit",
-    "name": "Orama Floor Art",
+    "author": "dismarzero",
+    "name": "VGP Garden Fabrics Simplified",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Latki(vee)",
-    "name": "[Vee]Apparel Retexture",
+    "author": "dismarzero",
+    "name": "VGP Garden Resources",
     "steamId": null,
     "version": null
   },
   {
-    "author": "m00nl1ght-dev",
-    "name": "Biome Transitions",
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Drinks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Cleaning Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Corpse Cleanup",
+    "steamId": "3047191756",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Edge Crescent",
+    "name": "HousekeeperAssistanceCat",
+    "steamId": "1541620640",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   }
 ]
