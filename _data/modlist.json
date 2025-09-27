@@ -192,18 +192,6 @@
     "version": "0.9.1"
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Garden Tools",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rainbeau Flambe and Jamaican Castle",
-    "name": "Fertile Fields 1.6",
-    "steamId": "3225843229",
-    "version": "1.0.9326.21234"
-  },
-  {
     "author": "Zaljerem",
     "name": "SimplyMoreFloors (Continued)",
     "steamId": null,
@@ -536,6 +524,12 @@
   {
     "author": "dismarzero",
     "name": "VGP Garden Drinks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Tools",
     "steamId": null,
     "version": null
   },
