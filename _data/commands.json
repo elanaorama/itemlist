@@ -886,8 +886,8 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 1800,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
