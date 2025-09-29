@@ -190,7 +190,7 @@
       "abr": "axe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Axe",
-      "price": -10
+      "price": 209
     },
     {
       "abr": "babydecoration",
@@ -454,7 +454,7 @@
       "abr": "breachaxe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_BreachAxe",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "brewery",
@@ -694,7 +694,7 @@
       "abr": "club",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Club",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "coagulator",
@@ -1102,7 +1102,7 @@
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "eltexvest",
@@ -1768,7 +1768,7 @@
       "abr": "ikwa",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Ikwa",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "immaturedryadmeat",
@@ -1918,7 +1918,7 @@
       "abr": "knife",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Knife",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "labradorretriever",
@@ -2014,7 +2014,7 @@
       "abr": "longsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_LongSword",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "loudspeaker",
@@ -2236,7 +2236,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "morbidslab(broad)",
@@ -2512,7 +2512,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasteel",
@@ -2944,7 +2944,7 @@
       "abr": "recurvebow",
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
-      "price": -10
+      "price": 163
     },
     {
       "abr": "redfox",
@@ -3724,7 +3724,7 @@
       "abr": "toxbomblauncher",
       "category": "Ranged weapons",
       "defname": "Gun_ToxbombLauncher",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "toxipotatoes",
@@ -3898,7 +3898,7 @@
       "abr": "warhammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Warhammer",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "wasterat",
@@ -5398,7 +5398,7 @@
       "abr": "gardencoffee",
       "category": "Garden Drinks",
       "defname": "Coffee",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "gardenfish",
@@ -5410,7 +5410,7 @@
       "abr": "gardentea",
       "category": "Garden Drinks",
       "defname": "Cuptea",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "gasboiler",
@@ -8200,13 +8200,13 @@
       "abr": "test",
       "category": "Animals",
       "defname": "Cougar_A",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "testmeat",
       "category": "Meat",
       "defname": "Meat_Cougar_A",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "thermostat",
@@ -8344,7 +8344,7 @@
       "abr": "unicornmeat",
       "category": "Meat",
       "defname": "Meat_TWRL_Animal_Unicorn",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "uniqueassaultrifle",
